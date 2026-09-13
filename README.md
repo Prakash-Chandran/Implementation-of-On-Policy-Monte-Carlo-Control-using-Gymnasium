@@ -440,7 +440,9 @@ env.close()
 <img width="382" height="135" alt="image" src="https://github.com/user-attachments/assets/3c8088a2-4241-45cf-9ad6-004b6b761f66" />
 
 ### Learned Policy:
-<img width="378" height="211" alt="image" src="https://github.com/user-attachments/assets/79629376-d066-4dbe-9dfd-d05d99eccc04" />
+
+<img width="363" height="195" alt="image" src="https://github.com/user-attachments/assets/f6d729d0-9849-4c41-ae3a-63854039fed8" />
+
 
 ### Learning Curve:
 <img width="1159" height="647" alt="image" src="https://github.com/user-attachments/assets/6aa28efb-20c3-423b-85c1-a7c17f84ea0e" />
